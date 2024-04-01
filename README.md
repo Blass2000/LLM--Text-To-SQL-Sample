@@ -4,7 +4,7 @@
 
 ![ezgif com-animated-gif-maker](https://github.com/Abhi0323/Text-to-Data-Retrieval-and-Insightful-Chart-Generation/assets/112967999/1cc81533-a60a-4046-b107-593eec1b9450)
 
-Synopsis- I have created this Jupyter Notebook guides you through the implementation of an applicationdesigned to convert natural language questions into SQL queries, retrieve data from adatabase, and automatically generate insightful charts based on the retrieved data.This tool is aimed at making data analysis accessible to both technical and non-technical users, streamlining the process of data retrieval and visualization.
+Synopsis- Spare time fun!- Wondering why this was not fully adopted by orgainzations that I have been familiar with over they years. Its is so easy. I have created this Jupyter Notebook guides you through the implementation of an applicationdesigned to convert natural language questions into SQL queries, retrieve data from adatabase, and automatically generate insightful charts based on the retrieved data.This tool is aimed at making data analysis accessible to both technical and non-technical users, streamlining the process of data retrieval and visualization.
 
 **Overview**
 
