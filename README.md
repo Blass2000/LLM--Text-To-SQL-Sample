@@ -17,21 +17,15 @@ The core idea is straightforward: users input queries in natural language, such 
 **Features**
 
 Natural Language Processing: Utilize advanced AI to translate plain English queries into precise SQL commands, enabling straightforward data retrieval without the need for SQL expertise.
-
 Dynamic Data Visualization: Automatically generates compelling charts based on the retrieved data, providing clear and actionable insights at a glance.
-
 User-Friendly Interface: Designed with simplicity in mind, ensuring ease of use for all users regardless of their technical background.
-
 Broad Application: Ideal for a wide range of industries and departments, from marketing and sales to finance and HR, looking to make data-driven decisions quickly and efficiently.
 
 **Benefits**
 
 Accessibility: Opens up data analysis to a broader audience within an organization, promoting a culture of data-driven decision-making.
-
 Efficiency: Saves time and resources by simplifying the data retrieval process and eliminating the need for complex query writing.
-
 Insightful: Enhances understanding of data through visually appealing charts, helping uncover trends, patterns, and insights that may not be immediately obvious.
-
 Empowerment: Empowers teams to ask questions and explore data on their own, fostering a more inquisitive and knowledgeable workforce.
 
 **Use Cases**
